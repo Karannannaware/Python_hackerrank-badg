@@ -7,7 +7,7 @@ A showcase of my certifications and achievements from platforms like HackerRank.
 ### 💡 HackerRank Profile
 
 - 🟢 5⭐ in Python
-- - 🟢 3⭐ in Python  
+- 🟢 3⭐ in SQL 
 - ✅ Solved **120+ problems** in Python and SQL
 ![HackerRank Python 5⭐](https://img.shields.io/badge/HackerRank-Python%205%E2%AD%90-success?style=for-the-badge&logo=hackerrank&logoColor=white)
 
